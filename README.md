@@ -27,4 +27,3 @@ The Results_benignVdcisVidcVcombi.csv file contains the result of the mean and s
 
 The Results_benignVmalignant.csv file contains the result of the mean and standard deviation values of each parameter calculated in the app. The mean and standard deviation for each parameter are calculated for the different groups: benign, and malignant.
 
-Correspondation to jinte@familiedebree.nl
